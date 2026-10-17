@@ -69,66 +69,88 @@ I'm still learning, still experimenting, and still improving. I don't need to kn
 
 <div align="center">
 
-## ╔═══「 02 · SKILL LOADOUT 」═══╗
+<!-- ═══════════════ 02 · CRIMSON SKILL LOADOUT ═══════════════ -->
 
-<sub>FIVE TOOLS. ONE BUILDING JOURNEY.</sub>
+<div align="center">
+
+<img src="./assets/crimson-lightning.gif"
+     width="100%"
+     alt="Animated crimson lightning divider" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=700&color=FF2348&center=true&vCenter=true&width=800&lines=02+%2F%2F+SKILL+LOADOUT;TOOLS+OF+THE+BUILDER;FIVE+TOOLS.+ONE+MISSION."
+     alt="Animated skill loadout heading" />
+
+<br/>
+
+<sub>━━━━━━━━━━━ &nbsp; MY CURRENT TOOLKIT &nbsp; ━━━━━━━━━━━</sub>
 
 <br/><br/>
 
 <a href="https://www.python.org/">
-  <img src="https://cdn.simpleicons.org/python/FF2348" width="64" height="64" alt="Python" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-10070A?style=for-the-badge&logo=python&logoColor=FF2348"
+       height="42" alt="Python logo" />
+</a>
+&nbsp;
 <a href="https://vercel.com/">
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="64" height="64" alt="Vercel" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VERCEL-10070A?style=for-the-badge&logo=vercel&logoColor=FF2348"
+       height="42" alt="Vercel logo in crimson" />
+</a>
+&nbsp;
 <a href="https://www.canva.com/">
-  <img src="https://cdn.simpleicons.org/canva/FF4D6D" width="64" height="64" alt="Canva" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CANVA-10070A?style=for-the-badge&logo=canva&logoColor=FF4D6D"
+       height="42" alt="Canva logo in crimson" />
+</a>
+&nbsp;
 <a href="https://supabase.com/">
-  <img src="https://cdn.simpleicons.org/supabase/FF4D6D" width="64" height="64" alt="Supabase" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/githubcopilot/FF2348" width="64" height="64" alt="AI coding icon representing vibecoding" />
+  <img src="https://img.shields.io/badge/SUPABASE-10070A?style=for-the-badge&logo=supabase&logoColor=FF4D6D"
+       height="42" alt="Supabase logo" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/VIBECODING-10070A?style=for-the-badge&logo=githubcopilot&logoColor=FF2348"
+     height="42" alt="Vibecoding — AI coding symbol" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PYTHON-FF2348?style=for-the-badge&logo=python&logoColor=white&labelColor=10070A" alt="Python" />
-<img src="https://img.shields.io/badge/VERCEL-FF2348?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10070A" alt="Vercel" />
-<img src="https://img.shields.io/badge/CANVA-FF2348?style=for-the-badge&logo=canva&logoColor=white&labelColor=10070A" alt="Canva" />
-<img src="https://img.shields.io/badge/SUPABASE-FF2348?style=for-the-badge&logo=supabase&logoColor=white&labelColor=10070A" alt="Supabase" />
-<img src="https://img.shields.io/badge/VIBECODING-FF2348?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=10070A" alt="Vibecoding" />
-
 </div>
-
----
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/FF2348"
-       width="36" height="36" alt="Python logo" />
-</p>
+<div align="left">
 
-<h3>PYTHON</h3>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/PYTHON-10070A?style=for-the-badge&logo=python&logoColor=FF2348"
+       height="38" alt="Python logo" />
+</a>
 
-My coding toolkit for experimenting, learning programming concepts, and building practical project ideas.
+</div>
 
-<img src="https://img.shields.io/badge/BUILD-AND-LEARN-FF2348?style=flat-square&labelColor=10070A" alt="Build and learn" />
+### PYTHON
+
+My coding toolkit for learning programming concepts, experimenting with ideas, and building practical projects.
+
+<img src="https://img.shields.io/badge/BUILD%20%26%20LEARN-FF2348?style=flat-square&labelColor=10070A"
+     alt="Build and learn" />
 
 </td>
     <td width="50%" valign="top">
 
-<p>
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF"
-       width="36" height="36" alt="Vercel logo" />
-</p>
+<div align="left">
 
-<h3>VERCEL</h3>
+<a href="https://vercel.com/">
+  <img src="https://img.shields.io/badge/VERCEL-10070A?style=for-the-badge&logo=vercel&logoColor=FF2348"
+       height="38" alt="Vercel logo in crimson" />
+</a>
 
-A platform in my toolkit for deploying projects and putting ideas online.
+</div>
 
-<img src="https://img.shields.io/badge/IDEAS-TO-WEB-FF4D6D?style=flat-square&labelColor=10070A" alt="Ideas to web" />
+### VERCEL
+
+A platform in my toolkit for deploying projects and publishing ideas online.
+
+<img src="https://img.shields.io/badge/IDEAS%20TO%20WEB-FF2348?style=flat-square&labelColor=10070A"
+     alt="Ideas to web" />
 
 </td>
   </tr>
@@ -136,30 +158,40 @@ A platform in my toolkit for deploying projects and putting ideas online.
   <tr>
     <td width="50%" valign="top">
 
-<p>
-  <img src="https://cdn.simpleicons.org/canva/FF4D6D"
-       width="36" height="36" alt="Canva logo" />
-</p>
+<div align="left">
 
-<h3>CANVA</h3>
+<a href="https://www.canva.com/">
+  <img src="https://img.shields.io/badge/CANVA-10070A?style=for-the-badge&logo=canva&logoColor=FF4D6D"
+       height="38" alt="Canva logo in crimson" />
+</a>
 
-For visual design, creative assets, and presenting ideas with a strong visual identity.
+</div>
 
-<img src="https://img.shields.io/badge/CREATE-VISUALLY-FF2348?style=flat-square&labelColor=10070A" alt="Create visually" />
+### CANVA
+
+My creative tool for visual design, graphic assets, and bringing ideas to life.
+
+<img src="https://img.shields.io/badge/CREATE%20VISUALLY-FF2348?style=flat-square&labelColor=10070A"
+     alt="Create visually" />
 
 </td>
     <td width="50%" valign="top">
 
-<p>
-  <img src="https://cdn.simpleicons.org/supabase/FF4D6D"
-       width="36" height="36" alt="Supabase logo" />
-</p>
+<div align="left">
 
-<h3>SUPABASE</h3>
+<a href="https://supabase.com/">
+  <img src="https://img.shields.io/badge/SUPABASE-10070A?style=for-the-badge&logo=supabase&logoColor=FF4D6D"
+       height="38" alt="Supabase logo" />
+</a>
 
-A tool in my toolkit for building projects with backend services and data.
+</div>
 
-<img src="https://img.shields.io/badge/BUILD-WITH-DATA-FF4D6D?style=flat-square&labelColor=10070A" alt="Build with data" />
+### SUPABASE
+
+A tool in my toolkit for working with backend services and data-powered projects.
+
+<img src="https://img.shields.io/badge/PROJECT%20BUILDING-FF2348?style=flat-square&labelColor=10070A"
+     alt="Project building" />
 
 </td>
   </tr>
@@ -167,20 +199,35 @@ A tool in my toolkit for building projects with backend services and data.
   <tr>
     <td colspan="2" valign="top">
 
-<p>
-  <img src="https://cdn.simpleicons.org/githubcopilot/FF2348"
-       width="36" height="36" alt="AI coding icon representing vibecoding" />
-</p>
+<div align="left">
 
-<h3>VIBECODING</h3>
+<img src="https://img.shields.io/badge/VIBECODING-10070A?style=for-the-badge&logo=githubcopilot&logoColor=FF2348"
+     height="38" alt="Vibecoding — AI coding symbol" />
 
-Turning ideas into prototypes, experimenting with tools, testing results, and improving what I build.
+</div>
 
-<img src="https://img.shields.io/badge/IDEA-TO-PROTOTYPE-FF2348?style=flat-square&labelColor=10070A" alt="Idea to prototype" />
+### VIBECODING
+
+Turning ideas into prototypes, experimenting with coding tools, testing what works, and refining the result.
+
+<img src="https://img.shields.io/badge/IDEA%20%2F%2F%20BUILD%20%2F%2F%20REFINE-FF2348?style=flat-square&labelColor=10070A"
+     alt="Idea, build and refine" />
 
 </td>
   </tr>
 </table>
+
+<div align="center">
+
+<img src="./assets/crimson-lightning.gif"
+     width="100%"
+     alt="Animated crimson lightning divider" />
+
+<sub>赤 &nbsp; LEARN MORE. BUILD BETTER. KEEP EVOLVING. &nbsp; 赤</sub>
+
+</div>
+
+<!-- ═══════════════ END SKILL LOADOUT ═══════════════ -->
 ## ╔═══「 03 · ACTIVE QUESTS 」═══╗
 
 </div>
