@@ -1,83 +1,136 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                 ABISHEK SHRESTHA // PROFILE README              -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!--
+  ABISHEK SHRESTHA — ANIME / CYBERPUNK README
+  Put this README.md in the root of your GitHub profile repository:
+  https://github.com/Abishek-C0DE5/Abishek-C0DE5
+  Keep the image at assets/anime-banner.png (or change the path below).
+-->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,45:4A1D75,100:F72585&height=235&section=header&text=ABISHEK%20SHRESTHA&fontSize=43&fontColor=FFFFFF&fontAlignY=35&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20REPEAT&descSize=16&descAlignY=56&animation=twinkling" alt="Abishek Shrestha — Code, Create, Repeat" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2600&pause=850&color=C4B5FD&center=true&vCenter=true&width=700&lines=Student+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Vibe-coding+ideas+into+real+projects;Exploring+AI%2FML%2C+Python+%26+automation;Currently+in+my+builder+arc...;Small+commits.+Big+dreams.+No+final+form." alt="Animated introduction" />
+<img src="./assets/anime-banner.png" alt="Anime cyberpunk character banner" width="100%" />
 
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Abishek-C0DE5&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitors" />
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-FF4D8D?style=for-the-badge" alt="Status: learning and building" />
-</div>
+<br/>
 
-🌌 01 // THE ORIGIN STORY
-Hey, I'm Abishek Shrestha, a student from Nepal who's passionate about technology, AI/ML, and software development. I like vibe-coding my ideas into real projects, experimenting with tools, and learning by building instead of waiting until I know everything. I'm exploring Python, automation, and full-stack development while working toward becoming an AI/ML engineer. This profile is my build log — ideas, experiments, mistakes, upgrades, and the occasional breakthrough.
-「まだ途中。」 Still in progress. The character development is the point.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=650&color=F04DFF&center=true&vCenter=true&width=700&lines=ABISHEK+SHRESTHA;STUDENT+%2F+BUILDER+%2F+AI+EXPLORER;TURNING+IDEAS+INTO+REAL+PROJECTS" alt="Animated typing introduction" />
 
-⚔️ 02 // CURRENT QUESTS
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Skill Tree</h3>
-      <ul>
-        <li>Exploring AI / Machine Learning</li>
-        <li>Learning Python and automation</li>
-        <li>Building and testing software ideas</li>
-        <li>Improving through real projects</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Main Mission</h3>
-      <ul>
-        <li>Turn ideas into useful products</li>
-        <li>Learn by shipping, not just watching</li>
-        <li>Combine code, creativity, and business</li>
-        <li>Level up toward AI/ML engineering</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-🛠️ 03 // INVENTORY & TOOLS
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <br />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<p>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-ff4de1?style=for-the-badge&logo=github&logoColor=white" alt="Learning and building" />
+  <img src="https://img.shields.io/badge/BASED%20IN-NEPAL-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Nepal" />
+  <img src="https://komarev.com/ghpvc/?username=Abishek-C0DE5&style=for-the-badge&color=00d9ff&label=PROFILE+SIGNALS" alt="Profile views" />
 </p>
 
-📡 04 // CONNECT TO THE DEVELOPER
-<div align="center">
-  <a href="https://mastodon.social/@stha">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
-  </a>
-  <a href="mailto:kenjistha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+### `> BUILD. BREAK. LEARN. REPEAT._`
+
+*Curious about AI, automation, and software — building my way from ideas to useful tools.*
+
+[ABOUT](#-about-me) · [ARSENAL](#-tech-arsenal) · [PROJECTS](#-current-mission) · [STATS](#-github-signal-report) · [CONNECT](#-find-me)
+
 </div>
 
-📊 05 // PLAYER STATS
+---
+
+## `// 01` — ABOUT ME
+
+```text
+NAME       : Abishek Shrestha
+LOCATION   : Nepal 🇳🇵
+IDENTITY   : Student • Developer in progress • Curious creator
+FOCUS      : AI / ML • Python • Automation • Web technologies
+MINDSET    : Learn by building. Improve by shipping.
+MISSION    : Turn useful ideas into real, working projects.
+```
+
+I'm a student passionate about technology, AI/ML, and software development. I enjoy vibe-coding ideas into real projects, exploring automation, and learning by building. I'm not here pretending to know everything — I'm here to keep improving and make things that are genuinely useful.
+
+> **Current rule:** less pretending, more building.
+
+## `// 02` — TECH ARSENAL
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abishek-C0DE5&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D0B1A&title_color=F472B6&icon_color=A78BFA&text_color=E5E7EB" alt="Abishek's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Abishek-C0DE5&theme=tokyonight&hide_border=true&background=0D0B1A&ring=F472B6&fire=FB923C&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub contribution streak" />
-  <br /><br />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-C0DE5&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D0B1A&title_color=F472B6&text_color=E5E7EB" alt="Most used languages" />
+
+**LANGUAGES & CORE**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML and CSS" />
+
+**TOOLS & PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase&theme=dark" alt="Git, GitHub, VS Code, Vercel and Supabase" />
+
+**CREATIVE TOOLS**
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+
 </div>
 
-🌠 06 // CONTRIBUTION TRAIL
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek-C0DE5&bg_color=0D0B1A&color=C4B5FD&line=F472B6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
+<details>
+<summary><b>⚡ Current learning direction</b></summary>
+
+- Strengthen Python fundamentals through practical projects.
+- Explore AI/ML and AI-powered applications.
+- Build automation that solves real problems.
+- Improve web development and ship cleaner projects.
+- Keep learning Git, APIs, and software development workflows.
+
+</details>
+
+## `// 03` — CURRENT MISSION
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,55:4A1D75,100:090A1A&height=115&section=footer&animation=twinkling" alt="Neon anime-inspired footer" />
-  <b>⚡ BUILD MODE: ON</b><br />
-  <sub>Thanks for stopping by. See you in the next arc.</sub>
+
+<a href="https://github.com/Abishek-C0DE5?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-151515?style=for-the-badge&logo=github&logoColor=ff4de1" alt="Explore my repositories" />
+</a>
+<a href="mailto:kenjistha@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-Open%20to%20Ideas-151515?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Contact by email" />
+</a>
+
+</div>
+
+- **Build:** small projects that grow into useful tools.
+- **Experiment:** AI, automation, and developer workflows.
+- **Improve:** code quality, problem-solving, and consistency.
+- **Document:** share what I learn instead of waiting to be an expert.
+
+> *The goal isn't to look advanced. The goal is to become capable.*
+
+## `// 04` — GITHUB SIGNAL REPORT
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.shion.dev/api?username=Abishek-C0DE5&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=ff4de1&text_color=e7e1f5&icon_color=00d9ff&ring_color=ff4de1&include_all_commits=true" alt="GitHub statistics" />
+
+<img height="175" src="https://streak-stats.demolab.com?user=Abishek-C0DE5&hide_border=true&background=0D0B14&ring=FF4DE1&fire=FF4DE1&currStreakLabel=00D9FF&sideLabels=E7E1F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9992AA" alt="GitHub contribution streak" />
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abishek-C0DE5&layout=compact&hide_border=true&bg_color=0d0b14&title_color=ff4de1&text_color=e7e1f5&langs_count=8" alt="Most used programming languages" />
+
+</div>
+
+<p align="center">
+  <sub>Stats are generated by external services and may occasionally be unavailable or delayed.</sub>
+</p>
+
+## `// 05` — FIND ME
+
+<div align="center">
+
+<a href="https://mastodon.social/@stha">
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+</a>
+<a href="mailto:kenjistha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF4D8D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Abishek-C0DE5">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;KEEP+LEARNING.+KEEP+BUILDING.;END+OF+TRANSMISSION+%2F%2F" alt="Animated sign-off" />
+
+<sub>「 Make something real. Then make it better. 」</sub>
+
 </div>
