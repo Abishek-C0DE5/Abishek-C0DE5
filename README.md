@@ -226,23 +226,85 @@ Keep learning, improving, and documenting progress through building.
 
 <img src="./assets/crimson-lightning.gif" width="100%" alt="Animated crimson lightning divider" />
 
-## ╔═══「 04 · GITHUB COMBAT LOG 」═══╗
+<!-- ═══════════════ CRIMSON COMBAT LOG ═══════════════ -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abishek-C0DE5&show_icons=true&hide_border=true&bg_color=0B0508&title_color=FF2348&text_color=F5E9EC&icon_color=FF4D6D&ring_color=FF2348&include_all_commits=true" height="180" alt="GitHub stats card" />
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abishek-C0DE5&hide_border=true&background=0B0508&ring=FF2348&fire=FF4D6D&currStreakLabel=FF2348&sideLabels=F5E9EC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B9A5AB" height="180" alt="GitHub streak card" />
+<img src="./assets/crimson-lightning.gif"
+     width="100%"
+     alt="Animated crimson lightning" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2200&pause=700&color=FF2348&center=true&vCenter=true&width=850&lines=04+%2F%2F+GITHUB+COMBAT+LOG;CONTRIBUTIONS+DETECTED;CRIMSON+SYSTEM%3A+ONLINE"
+     alt="Animated GitHub Combat Log heading" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-C0DE5&layout=compact&hide_border=true&bg_color=0B0508&title_color=FF2348&text_color=F5E9EC&langs_count=8" height="165" alt="Most used languages card" />
+<img src="https://img.shields.io/badge/〘%20LIVE%20PROFILE%20SIGNAL%20〙-FF2348?style=for-the-badge&labelColor=10070A"
+     alt="Live profile signal" />
 
-<sub>These cards are loaded from third-party services. They may take time to update or occasionally be unavailable.</sub>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20EVOLVING-FF4D6D?style=for-the-badge&labelColor=10070A"
+     alt="Always evolving" />
+
+<br/><br/>
 
 </div>
 
----
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abishek-C0DE5&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0508&title_color=FF2348&text_color=F5E9EC&icon_color=FF4D6D&ring_color=FF2348"
+     width="100%"
+     alt="Abishek's GitHub statistics" />
+
+</td>
+    <td width="50%" align="center" valign="top">
+
+<img src="https://streak-stats.demolab.com?user=Abishek-C0DE5&hide_border=true&background=0B0508&ring=FF2348&fire=FF4D6D&currStreakLabel=FF2348&sideLabels=F5E9EC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B9A5AB"
+     width="100%"
+     alt="GitHub contribution streak" />
+
+</td>
+  </tr>
+</table>
 
 <div align="center">
+
+<img src="./assets/crimson-lightning.gif"
+     width="100%"
+     alt="Crimson energy divider" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2400&pause=600&color=FF2348&center=true&vCenter=true&width=650&lines=LANGUAGE+ARSENAL;EVERY+COMMIT+LEAVES+A+TRACE"
+     alt="Animated language panel title" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-C0DE5&layout=compact&langs_count=8&hide_border=true&bg_color=0B0508&title_color=FF2348&text_color=F5E9EC"
+     width="65%"
+     alt="Most used programming languages" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILD-FF2348?style=for-the-badge&labelColor=10070A&logo=github&logoColor=white"
+     alt="Build" />
+<img src="https://img.shields.io/badge/LEARN-FF4D6D?style=for-the-badge&labelColor=10070A&logo=python&logoColor=white"
+     alt="Learn" />
+<img src="https://img.shields.io/badge/REPEAT-F5E9EC?style=for-the-badge&labelColor=10070A&logo=vercel&logoColor=white"
+     alt="Repeat" />
+
+<br/><br/>
+
+<sub>◈ STAT FEED: EXTERNAL SERVICE · VALUES MAY UPDATE WITH A DELAY ◈</sub>
+
+<img src="./assets/crimson-lightning.gif"
+     width="100%"
+     alt="Final animated crimson lightning divider" />
+
+</div>
+
+<!-- ═════════════ END COMBAT LOG ═════════════ -->
 
 ## ╔═══「 05 · CONNECTION GATE 」═══╗
 
