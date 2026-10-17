@@ -69,16 +69,16 @@ I'm still learning, still experimenting, and still improving. I don't need to kn
 
 <div align="center">
 
-<!-- ═══════════════ 02 · CRIMSON SKILL LOADOUT ═══════════════ -->
+<!-- ═══════════ 02 · CRIMSON SKILL LOADOUT ═══════════ -->
 
 <div align="center">
 
 <img src="./assets/crimson-lightning.gif"
      width="100%"
-     alt="Animated crimson lightning divider" />
+     alt="Crimson lightning animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=700&color=FF2348&center=true&vCenter=true&width=800&lines=02+%2F%2F+SKILL+LOADOUT;TOOLS+OF+THE+BUILDER;FIVE+TOOLS.+ONE+MISSION."
-     alt="Animated skill loadout heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2200&pause=700&color=FF2348&center=true&vCenter=true&width=850&lines=02+%2F%2F+SKILL+LOADOUT;TOOLS+OF+THE+BUILDER;FIVE+TOOLS.+ONE+MISSION."
+     alt="Animated Skill Loadout title" />
 
 <br/>
 
@@ -86,47 +86,56 @@ I'm still learning, still experimenting, and still improving. I don't need to kn
 
 <br/><br/>
 
+<!-- LARGE BRAND LOGOS -->
+
 <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-10070A?style=for-the-badge&logo=python&logoColor=FF2348"
-       height="42" alt="Python logo" />
+  <img src="https://cdn.simpleicons.org/python/FF2348"
+       width="72" height="72" alt="Python logo" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://vercel.com/">
-  <img src="https://img.shields.io/badge/VERCEL-10070A?style=for-the-badge&logo=vercel&logoColor=FF2348"
-       height="42" alt="Vercel logo in crimson" />
+  <img src="https://cdn.simpleicons.org/vercel/FF2348"
+       width="72" height="72" alt="Vercel logo" />
 </a>
-&nbsp;
-<a href="https://www.canva.com/">
-  <img src="https://img.shields.io/badge/CANVA-10070A?style=for-the-badge&logo=canva&logoColor=FF4D6D"
-       height="42" alt="Canva logo in crimson" />
-</a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://supabase.com/">
-  <img src="https://img.shields.io/badge/SUPABASE-10070A?style=for-the-badge&logo=supabase&logoColor=FF4D6D"
-       height="42" alt="Supabase logo" />
+  <img src="https://cdn.simpleicons.org/supabase/FF4D6D"
+       width="72" height="72" alt="Supabase logo" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/VIBECODING-10070A?style=for-the-badge&logo=githubcopilot&logoColor=FF2348"
-     height="42" alt="Vibecoding — AI coding symbol" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubcopilot/FF2348"
+     width="72" height="72"
+     alt="AI coding icon representing vibecoding" />
+
+<br/><br/>
+
+<!-- BOLD SKILL LABELS -->
+
+<img src="https://img.shields.io/badge/PYTHON-FF2348?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=10070A"
+     alt="Python" />
+<img src="https://img.shields.io/badge/VERCEL-FF2348?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=10070A"
+     alt="Vercel" />
+<img src="https://img.shields.io/badge/SUPABASE-FF2348?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=10070A"
+     alt="Supabase" />
+<img src="https://img.shields.io/badge/VIBECODING-FF2348?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF&labelColor=10070A"
+     alt="Vibecoding" />
 
 <br/><br/>
 
 </div>
 
+---
+
 <table>
   <tr>
     <td width="50%" valign="top">
 
-<div align="left">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/FF2348"
+       width="52" height="52" alt="Python logo" />
+</p>
 
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/PYTHON-10070A?style=for-the-badge&logo=python&logoColor=FF2348"
-       height="38" alt="Python logo" />
-</a>
-
-</div>
-
-### PYTHON
+<h2>PYTHON</h2>
 
 My coding toolkit for learning programming concepts, experimenting with ideas, and building practical projects.
 
@@ -136,16 +145,12 @@ My coding toolkit for learning programming concepts, experimenting with ideas, a
 </td>
     <td width="50%" valign="top">
 
-<div align="left">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/vercel/FF2348"
+       width="52" height="52" alt="Vercel logo" />
+</p>
 
-<a href="https://vercel.com/">
-  <img src="https://img.shields.io/badge/VERCEL-10070A?style=for-the-badge&logo=vercel&logoColor=FF2348"
-       height="38" alt="Vercel logo in crimson" />
-</a>
-
-</div>
-
-### VERCEL
+<h2>VERCEL</h2>
 
 A platform in my toolkit for deploying projects and publishing ideas online.
 
@@ -158,16 +163,12 @@ A platform in my toolkit for deploying projects and publishing ideas online.
   <tr>
     <td width="50%" valign="top">
 
-<div align="left">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/canva/FF4D6D"
+       width="52" height="52" alt="Canva logo" />
+</p>
 
-<a href="https://www.canva.com/">
-  <img src="https://img.shields.io/badge/CANVA-10070A?style=for-the-badge&logo=canva&logoColor=FF4D6D"
-       height="38" alt="Canva logo in crimson" />
-</a>
-
-</div>
-
-### CANVA
+<h2>CANVA</h2>
 
 My creative tool for visual design, graphic assets, and bringing ideas to life.
 
@@ -177,16 +178,12 @@ My creative tool for visual design, graphic assets, and bringing ideas to life.
 </td>
     <td width="50%" valign="top">
 
-<div align="left">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/supabase/FF4D6D"
+       width="52" height="52" alt="Supabase logo" />
+</p>
 
-<a href="https://supabase.com/">
-  <img src="https://img.shields.io/badge/SUPABASE-10070A?style=for-the-badge&logo=supabase&logoColor=FF4D6D"
-       height="38" alt="Supabase logo" />
-</a>
-
-</div>
-
-### SUPABASE
+<h2>SUPABASE</h2>
 
 A tool in my toolkit for working with backend services and data-powered projects.
 
@@ -199,14 +196,13 @@ A tool in my toolkit for working with backend services and data-powered projects
   <tr>
     <td colspan="2" valign="top">
 
-<div align="left">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/githubcopilot/FF2348"
+       width="52" height="52"
+       alt="AI coding icon representing vibecoding" />
+</p>
 
-<img src="https://img.shields.io/badge/VIBECODING-10070A?style=for-the-badge&logo=githubcopilot&logoColor=FF2348"
-     height="38" alt="Vibecoding — AI coding symbol" />
-
-</div>
-
-### VIBECODING
+<h2>VIBECODING</h2>
 
 Turning ideas into prototypes, experimenting with coding tools, testing what works, and refining the result.
 
@@ -221,13 +217,14 @@ Turning ideas into prototypes, experimenting with coding tools, testing what wor
 
 <img src="./assets/crimson-lightning.gif"
      width="100%"
-     alt="Animated crimson lightning divider" />
+     alt="Crimson lightning animation" />
 
-<sub>赤 &nbsp; LEARN MORE. BUILD BETTER. KEEP EVOLVING. &nbsp; 赤</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=17&duration=2500&pause=700&color=FF2348&center=true&vCenter=true&width=700&lines=LEARN.+BUILD.+REFINE.;CRIMSON+PROTOCOL%3A+ACTIVE"
+     alt="Animated sign-off" />
 
 </div>
 
-<!-- ═══════════════ END SKILL LOADOUT ═══════════════ -->
+<!-- ═══════════ END SKILL LOADOUT ═══════════ -->
 ## ╔═══「 03 · ACTIVE QUESTS 」═══╗
 
 </div>
